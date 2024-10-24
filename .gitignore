@@ -26,4 +26,4 @@ dist-ssr
 # Ignore environment files
 .env
 .env.production
-.env.deployment   # Add this if you have a .env.deployment file
+.env.deployment   
